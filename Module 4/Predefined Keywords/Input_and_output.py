@@ -1,0 +1,1 @@
+name = input("enter your name") #It will takes the input value given by user.
